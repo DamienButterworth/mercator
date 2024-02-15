@@ -1,3 +1,4 @@
+import model.{Apple, EmptyInput, InvalidItem, Orange, StoreProduct}
 import org.scalatest.matchers.should.Matchers
 import org.scalatest.wordspec.AnyWordSpec
 
